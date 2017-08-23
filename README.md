@@ -5,19 +5,19 @@ This is the repo with the solution to the challenge for the Business Intelligenc
 
 ## Installation
 Follow this instructions if you use conda.
-- Clone the repository on your local machine
+1. Clone the repository on your local machine
 ```
 https://github.com/jlcoto/door2door_bi.git
 ```
-- Create the environment by running
+2. Create the environment by running
 ```
 conda env create -f bi_chall_coto.yml
 ```
-- Activate the environment
+3. Activate the environment
 ```
 source activate bi_chall_coto
 ```
--Run a Jupyter Notebook on shell
+4. Run a Jupyter Notebook on shell
 ```
 jupyter notebook
 ```
