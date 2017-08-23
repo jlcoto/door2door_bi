@@ -11,11 +11,11 @@ https://github.com/jlcoto/door2door_bi.git
 ```
 2. Create the environment by running
 ```
-conda env create -f bi_chall_coto.yml
+conda env create -f environment.yml
 ```
 3. Activate the environment
 ```
-source activate bi_chall_coto
+source activate environment
 ```
 4. Run a Jupyter Notebook on shell
 ```
