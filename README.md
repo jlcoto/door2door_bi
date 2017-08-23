@@ -1,6 +1,41 @@
+
+# BI Challenge
+
+The
+
+
+
 # BI Code Challenge
 
-Code challenge for the Business Intelligence Analyst position.
+This is the repo for my solution to the sode challenge for the Business Intelligence Analyst position at door2door.
+
+## Installation
+Follow this instructions if you use conda.
+- Clone the repository on your local machine
+```
+https://github.com/jlcoto/door2door_bi.git
+```
+- Create the environment by running
+```
+conda env create -f bi_chall_coto.yml
+```
+- Activate the environment
+```
+source activate bi_chall_coto
+```
+-Run a Jupyter Notebook on shell
+```
+jupyter notebook
+```
+
+If using pip
+
+- Activate a virtual environment
+
+-Run
+```
+pip install -r requirements.txt
+```
 
 ## Task
 
@@ -43,6 +78,6 @@ It is matters to us to learn how you interact with the data and how you explain 
 The criteria we are looking for are the following:
 
 - **Presentation**: Are the conclusion clearly described? What discussion points are raised?
-- **Documentation**: Is the project and the code properly documented? 
+- **Documentation**: Is the project and the code properly documented?
 - **Correctness**: Is the task solved? If there is anything missing, is the reason why documented?
 - **Code**: What technologies were used, and do they fit the tasks? Is the code understandable and maintainable?
