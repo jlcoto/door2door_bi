@@ -1,13 +1,7 @@
 
-# BI Challenge
-
-The
-
-
-
 # BI Code Challenge
 
-This is the repo for my solution to the sode challenge for the Business Intelligence Analyst position at door2door.
+This is the repo for my solution to the sode challenge for the Business Intelligence Analyst position at door2door. You can check the accompanying presentation in the following [link](https://rawgit.com/jlcoto/door2door_bi_presentation/master/index.html).
 
 ## Installation
 Follow this instructions if you use conda.
@@ -36,6 +30,10 @@ If using pip
 ```
 pip install -r requirements.txt
 ```
+
+## Presentation
+
+Please see the presentation in the following [link](https://rawgit.com/jlcoto/door2door_bi_presentation/master/index.html).
 
 ## Task
 
